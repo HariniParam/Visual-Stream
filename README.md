@@ -20,3 +20,16 @@ This dashboard project showcases:
 Built to help users, data analysts, or streaming service stakeholders quickly gain insights into the content libraries and trends across these popular platforms.
 
 ---
+
+## 📷 Screenshots
+
+### Netflix Dashboard  
+![Netflix](images/netflix.jpeg)
+
+### Amazon Prime Dashboard  
+![Amazon Prime](images/amazon-prime.jpeg)
+
+### Disney Plus Dashboard  
+![Disney Plus](images/disney+.jpeg)
+
+---
