@@ -1,12 +1,12 @@
 # Visual-Stream
 
-## 📊 OTT Platform Dashboard Comparison - Netflix vs Amazon Prime vs Disney+
+## OTT Platform Dashboard Comparison - Netflix vs Amazon Prime vs Disney+
 
-This project provides a visual comparative analysis of the top OTT platforms — **Netflix**, **Amazon Prime**, and **Disney+** — using interactive dashboards.
+This project provides a visual comparative analysis of the top OTT platforms — **Netflix**, **Amazon Prime**, and **Disney+** using interactive dashboards.
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 This dashboard project showcases:
 - Total number of shows, movies, and series
@@ -21,7 +21,7 @@ Built to help users, data analysts, or streaming service stakeholders quickly ga
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Netflix Dashboard  
 ![Netflix](images/netflix.jpeg)
